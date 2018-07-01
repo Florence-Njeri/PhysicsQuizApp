@@ -1,0 +1,26 @@
+Index: MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- MainActivity.java	(date 1530466711000)
++++ MainActivity.java	(date 1530471438433)
+@@ -11,15 +11,15 @@
+ public class MainActivity extends AppCompatActivity {
+ 
+ 
+-
++    int score = 0;
++    String input;
+     @Override
+     protected void onCreate(Bundle savedInstanceState) {
+         super.onCreate(savedInstanceState);
+         setContentView(R.layout.activity_main);
+ 
+     }
+-    int score = 0;
+-    String input;
++
+ 
+     /**
+      * Validating whether the text input is the correct answer
