@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Physics</string>
+    <!--String for the name-->
+    <string name="name">Name</string>
+    <!-- String for the first question in the app -->
+    <string name="question1">1. Which is the third planet from the sun?</string>
+
+    <!-- String for the second question in the app -->
+    <string name="question2">2. Power is the rate of transfer of_____?</string>
+    <string name="energy">Energy</string>
+    <string name="momentum">Momentum</string>
+    <string name="force">Force</string>
+
+    <!-- String for the third question in the app -->
+    <string name="question3">3. Which of these are forms of heat transfer?"</string>
+    <string name="radiation">Radiation</string>
+    <string name="reduction">Reduction</string>
+    <string name="convection">Convection</string>
+
+
+    <!-- String for the fourth question in the app -->
+    <string name="question4">4. Which instruments detects,compare and measure low voltage?</string>
+    <string name="barometer">Barometer</string>
+    <string name="sonometer">Sonometer</string>
+    <string name="galvanometer">Galvanometer</string>
+
+
+    <!-- String for the fifth question in the app -->
+    <string name="question5">5. SI unit of mass?</string>
+    <string name="gram">Gram</string>
+    <string name="kilogram">Kilogram</string>
+    <string name="pound">Pound</string>
+
+    <!-- Text string for the submit button-->
+    <string name="submit">Submit</string>
+<string name="reset">Reset</string>
+</resources>

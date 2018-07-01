@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Physics</string>
+    <string name="question1">Nini sayari ya tatu kutoka jua?</string>
+    <string name="question5">" SI kitengo cha wingi?"</string>
+    <string name="question4">Ni vyombo gani vinavyotambua, kulinganisha na kupima voltage ya chini?</string>
+    <string name="question3">Ni ipi kati ya hizi aina za uhamisho wa joto?</string>
+    <string name="question2">" Nguvu ni kiwango cha uhamisho wa_____?"</string>
+    <string name="energy">" Nishati"</string>
+    <string name="momentum">" Momentum"</string>
+    <string name="force">" Nguvu"</string>
+    <string name="radiation">" Mionzi"</string>
+    <string name="reduction">Kupunguza</string>
+    <string name="convection">Convection</string>
+    <string name="gram">Gramu</string>
+    <string name="kilogram">Kilo</string>
+    <string name="pound">Pound</string>
+    <string name="barometer">Barometer</string>
+    <string name="sonometer">Sonometer</string>
+    <string name="galvanometer">Galvanometer</string>
+    <string name="submit">Tuma</string>
+    <string name="name">Jina</string>
+</resources>
